@@ -4,7 +4,7 @@ body, html {
 
 .jumbotron {
   /* The image used */
-  background-image: url("img/seven_buff.jpg");
+  background-image: url("../img/seven_buff.jpg");
 
   /* Full height */
   height: 100%;
