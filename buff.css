@@ -15,27 +15,6 @@ body, html {
   background-size: cover;
 }
 
-/*.btn-primary {
-    color: #fff;
-    background-color: #006400;
-    border-color: #006400;
-}
-
-
-a.btn-primary:focus {
-  background: #004d00;
-  border-color: #004d00;
-}
-a.btn-primary:hover {
-  background: #004d00;
-  border-color: #004d00;
-}
-a.btn-primary:active {
-  background: #004d00;
-  border-color: #004d00;
-}
-*/
-
 .buffalo {
   padding-top: 30rem;
   padding-left: 6rem;
